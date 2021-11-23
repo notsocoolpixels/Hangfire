@@ -36,7 +36,7 @@ namespace Hangfire
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Hangfire", Version = "v1" });
             });
-            services.AddHangfire(x => x.UseSqlServerStorage("data source=104.45.155.168;initial catalog=Hangfire;uid=sa;pwd=saadmin@123;").UseJobsLogger());
+            services.AddHangfire(x => x.UseSqlServerStorage("").UseJobsLogger());
             services.AddHangfireServer();
             services.AddControllers();
             AppSettings config = Configuration.GetSection("AppSettings").Get<AppSettings>();
