@@ -1,0 +1,12 @@
+2021-04-01 11:48:24.101 +05:30 [ERR] Error Reported 
+2021-04-01 11:49:07.606 +05:30 [ERR] Error Reported 
+2021-04-01 11:53:11.359 +05:30 [ERR] Error while reading CSV file {0}
+2021-04-01 12:04:06.624 +05:30 [ERR] Error while reading CSV file {0}
+2021-04-01 12:07:26.275 +05:30 [ERR] Error while reading CSV file 
+2021-04-01 12:10:03.286 +05:30 [ERR] Error while reading CSV file 
+2021-04-01 12:14:01.435 +05:30 [INF] Error while reading CSV file 
+2021-04-01 12:19:00.820 +05:30 [ERR] Error while reading CSV file 
+2021-04-01 12:19:00.827 +05:30 [INF] Logging information.
+2021-04-01 12:19:00.827 +05:30 [FTL] Logging critical information.
+2021-04-01 12:19:00.828 +05:30 [ERR] Logging error information.
+2021-04-01 12:19:00.829 +05:30 [WRN] Logging warning.

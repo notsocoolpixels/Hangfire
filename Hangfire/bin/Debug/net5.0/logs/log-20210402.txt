@@ -1,0 +1,100 @@
+{"Timestamp":"2021-04-02T10:44:23.1584061+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T10:44:29.1643724+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T10:44:32.5726940+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T10:45:13.8326724+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T10:47:19.4410158+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T10:47:21.9933323+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T10:50:40.8200222+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T10:50:46.3367317+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T10:50:49.5677869+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:00:30.5280327+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:00:35.5280844+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:00:42.0213935+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:14:25.4065508+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:14:31.6138836+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:14:36.3587937+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:15:47.3026844+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:15:51.1035730+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:15:54.5137361+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:27:03.3328911+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:27:07.2996916+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:27:10.0163195+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:28:42.1154234+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:28:45.7084954+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:28:49.6153972+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:30:09.9795603+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:30:16.4611087+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:30:19.0048487+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:35:26.0318005+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:35:32.8068036+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:35:36.2117940+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:39:16.7588948+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:39:20.0530130+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:39:23.7954852+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:41:49.2791939+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:41:51.5569364+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:41:53.8280615+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:45:29.4247353+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:45:31.9556314+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:45:35.0713019+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:46:41.3400606+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:46:45.9648493+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:46:49.5230564+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:49:54.9262770+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:49:57.1646623+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:50:00.0126009+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:51:55.3666653+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:51:58.1404437+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:52:00.0142102+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:55:19.7509611+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:55:21.2368264+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:55:22.3485115+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:55:50.8826519+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:55:53.6044406+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:55:55.0429287+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:56:28.3411453+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T11:56:30.4840217+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:56:31.6405200+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T11:59:59.1856387+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:00:01.7091342+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:00:02.9966086+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:02:15.0631078+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:02:15.5227937+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:02:16.6750831+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:12:25.8984312+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:12:26.9480722+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:12:27.1643411+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:13:44.7746549+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:13:44.9724770+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:16:43.8809779+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:16:46.2433539+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:16:48.3378474+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:23:53.5587808+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:23:54.6995152+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:23:56.4589966+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:23:56.8153819+05:30","Level":"Error","MessageTemplate":"Error while sending mail {0}","Properties":{"0":"Index (zero based) must be greater than or equal to zero and less than the size of the argument list.","SourceContext":"KI.Jobs._3DmodelSync.Service.SendEmails"}}
+{"Timestamp":"2021-04-02T12:24:17.6986574+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:24:19.5408264+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:24:21.3784959+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:26:07.7150227+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:26:09.2288559+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:26:10.6355872+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:26:47.8485001+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:26:49.4364376+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:26:50.3911410+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:26:52.3602723+05:30","Level":"Error","MessageTemplate":"Error while sending mail {0}","Properties":{"0":"Index (zero based) must be greater than or equal to zero and less than the size of the argument list.","SourceContext":"KI.Jobs._3DmodelSync.Service.SendEmails"}}
+{"Timestamp":"2021-04-02T12:27:15.5060037+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:27:17.4687111+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:27:18.3172109+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:28:01.9157579+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T12:28:03.6963762+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T12:28:05.6998551+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T15:58:52.9108128+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T15:58:53.0556807+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T15:58:57.2353806+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T16:46:32.1006226+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T16:46:32.2551136+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T16:46:33.9891057+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T16:49:22.8695160+05:30","Level":"Information","MessageTemplate":"Application Starting."}
+{"Timestamp":"2021-04-02T16:49:23.0213674+05:30","Level":"Information","MessageTemplate":"Reading data from CSV File.","Properties":{"SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
+{"Timestamp":"2021-04-02T16:49:29.2038036+05:30","Level":"Error","MessageTemplate":"Error while reading CSV file {0}","Properties":{"0":"Could not find a part of the path 'E:\\3DModelsTemplate_data.csv'.","SourceContext":"KI.Jobs._3DmodelSync.MyApplication"}}
